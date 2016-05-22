@@ -1,0 +1,7 @@
+.catalog:
+    name: "Docker"
+    version: "1.10.3"
+    description: "Docker container which enables other containers to run docker inside a container"
+
+dockerindocker:
+  scale: 1

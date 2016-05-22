@@ -1,0 +1,5 @@
+dockerindocker:
+  image: docker:1.10.3-dind
+  privileged: true
+  tty: false
+  stdin_open: false

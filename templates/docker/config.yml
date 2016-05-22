@@ -1,0 +1,5 @@
+name: Docker
+description: |
+  Docker container which enables other containers to run docker inside a container
+version: 1.10.3
+category: Docker
